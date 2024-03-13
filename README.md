@@ -1,15 +1,34 @@
 <h1 align="center">Hola 👋, Soy Carlos Barrera</h1>
 <h3 align="center">Desarrollador Software</h3>
+<p>
+    Soy un Ingeniero de Sistemas con especialización en Ingeniería de Software. Me especializo en el desarrollo web y tengo experiencia en una variedad de tecnologías, incluyendo:
+</p>
+<ul>
+   <li> Desarrollo de aplicaciones web utilizando Java, HTML, CSS y React JS para construir interfaces de usuario interactivas y dinámicas.</li>
+ 	<li>Utilización de frameworks como Spring Boot para el desarrollo de backends.</li>
+ 	<li>Creación de APIs RESTful para comunicación entre el frontend y el backend.</li>
+ 	<li>Diseño y gestión de bases de datos con PostgreSQL, MySQL y SQL Server.</li>
+ 	<li>Integración de herramientas de control de versiones como Git y GitHub en proyectos web.</li>
+ 	<li>Testing y documentación de APIs con Postman.</li>
+ 	<li>Utilización de herramientas de construcción de proyectos como Maven.</li>
+ 	<li>Desarrollo de interfaces de usuario responsivas y atractivas utilizando Bootstrap.</li>
+</ul>
+  
+<p>
+    Me encanta explorar nuevas tecnologías y estoy siempre en búsqueda de mejorar mis habilidades en el desarrollo web.
+</p>
+<ul>
+    <li>Actualmente estoy aprendiendo Spring Security</li>
+    <li>📫 Correo electrónico: devbarrerac@gmail.com</li>
+</ul>
 
-- 🌱 Actualmente estoy aprendiendo **Spring Security**
-- 📫 Correo electrónico **devbarrerac@gmail.com**
 
 <h3 align="left">Conéctate conmigo :</h3>
 <p align="left">
     <a href="https://linkedin.com/in/carlos-jesus-barrera-aleman-715538266/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/carlos-jesus-barrera-aleman-715538266/" height="30" width="40" /></a>
 </p >
 
-<h3 align="left">Idiomas y herramientas:</h3>
+<h3 align="left">Lenguajes y herramientas:</h3>
 <p align="left">
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40" /></a>
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" /></a>
