@@ -1,15 +1,12 @@
-<h1 align="center">Hola 👋, soy Carlos Barrera</h1>
-<h3 align="center">Un apasionado desarrollador backend</h3>
+<h1 align="center">Hola 👋, Soy Carlos Barrera</h1>
+<h3 align="center">Desarrollador Software</h3>
 
 - 🌱 Actualmente estoy aprendiendo **Spring Security**
-
-- 👨 ‍💻 Mis proyectos personales [https://github.com/devpcarlos](https://github.com/devpcarlos)
-
 - 📫 Correo electrónico **devbarrerac@gmail.com**
 
 <h3 align="left">Conéctate conmigo :</h3>
 <p align="left">
-<a href="https://linkedin.com/es/https://www.linkedin.com/es/carlos-jesus-barrera-aleman-715538266/ " target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in -alt.svg" alt="https://www.linkedin.com/in/carlos-jesus-barrera-aleman-715538266/" height="30" width="40" /></a>
+    <a href="https://linkedin.com/in/carlos-jesus-barrera-aleman-715538266/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/carlos-jesus-barrera-aleman-715538266/" height="30" width="40" /></a>
 </p >
 
 <h3 align="left">Idiomas y herramientas:</h3>
