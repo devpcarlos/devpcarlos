@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, Soy Carlos Barrera</h1>
 <h3 align="center">Desarrollador Software</h3>
 <p>
-    Soy un Ingeniero de Sistemas con especialización en Ingeniería de Software. Me especializo en el desarrollo web y tengo experiencia en una variedad de tecnologías, incluyendo:
+    Soy Ingeniero de Sistemas con especialización en Ingeniería de Software. Me especializo en el desarrollo web y tengo experiencia en una variedad de tecnologías, incluyendo:
 </p>
 <ul>
    <li> Desarrollo de aplicaciones web utilizando Java, HTML, CSS y React JS para construir interfaces de usuario interactivas y dinámicas.</li>
