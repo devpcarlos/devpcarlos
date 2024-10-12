@@ -7,7 +7,6 @@
  	<li>Spring Boot para el desarrollo de backend.</li>
     <li>Spring Security para la autenticacion y autorizacion de usuarios</li>
     <li>Jwt tokens para transmitir información de forma segura entre el cliente y el servidor</li>
-    <li>Actualmente estoy aprendiendo Spring Security</li>
  	<li>Creación de APIs RESTful para comunicación entre el frontend y el backend.</li>
  	<li>Diseño y gestión de bases de datos con PostgreSQL, MySQL y SQL Server.</li>
  	<li>Integración de herramientas de control de versiones como Git y GitHub en proyectos web.</li>
