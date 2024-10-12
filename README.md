@@ -5,19 +5,20 @@
 </p>
 <ul>
  	<li>Spring Boot para el desarrollo de backend.</li>
+    <li>Spring Security para la autenticacion y autorizacion de usuarios</li>
+    <li>Jwt tokens para transmitir información de forma segura entre el cliente y el servidor</li>
+    <li>Actualmente estoy aprendiendo Spring Security</li>
  	<li>Creación de APIs RESTful para comunicación entre el frontend y el backend.</li>
  	<li>Diseño y gestión de bases de datos con PostgreSQL, MySQL y SQL Server.</li>
  	<li>Integración de herramientas de control de versiones como Git y GitHub en proyectos web.</li>
  	<li>Testing y documentación de APIs con Postman.</li>
  	<li>Utilización de herramientas de construcción de proyectos como Maven.</li>
- 	<li>Desarrollo de interfaces de usuario responsivas y atractivas utilizando Bootstrap.</li>
 </ul>
   
 <p>
     Me encanta explorar nuevas tecnologías y estoy siempre en búsqueda de mejorar mis habilidades en el desarrollo web.
 </p>
 <ul>
-    <li>Actualmente estoy aprendiendo Spring Security</li>
     <li>📫 Correo electrónico: devbarrerac@gmail.com</li>
 </ul>
 
